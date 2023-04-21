@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600;700&display=swap');
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+tr {
+    border: 1px solid black;
+}   
+
+th {
+    border: 1px solid black;
+    height: 50px;
+    background-color: green;
+}
+
+td {
+    border: 1px solid black
+}
+
+.Male-under-21 {
+    background-color: grey;
+}
+.Male-over-21 {
+    background-color: black;
+    color: white;
+}
+.Female-over-21 {
+    background-color: pink;
+}
+.Female-under-21 {
+    background-color: red;
+}
+
+li {
+    list-style: none;
+    padding: 10px 20px;
+    background-image: url(../images/images\ \(1\).png) ;
+    background-repeat:no-repeat ;
+    background-position: left center;
+    background-size:20px ;
+}
